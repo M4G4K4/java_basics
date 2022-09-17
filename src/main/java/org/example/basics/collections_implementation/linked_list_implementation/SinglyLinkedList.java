@@ -1,4 +1,4 @@
-package org.example.collections_implementation.linked_list_implementation;
+package org.example.basics.collections_implementation.linked_list_implementation;
 
 public class SinglyLinkedList {
     class Node{

@@ -1,4 +1,4 @@
-package org.example.collections_implementation.map_implementation;
+package org.example.basics.collections_implementation.map_implementation;
 
 import java.util.Arrays;
 import java.util.HashSet;

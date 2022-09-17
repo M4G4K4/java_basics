@@ -1,4 +1,4 @@
-package org.example.collections_implementation.set_implementation;
+package org.example.basics.collections_implementation.set_implementation;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package org.example.collections_implementation.list_implementation;
+package org.example.basics.collections_implementation.list_implementation;
 
 import java.util.Arrays;
 
