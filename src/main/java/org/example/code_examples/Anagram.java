@@ -4,6 +4,12 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Definição de Anagrama: Palavra que pode ser construida a partir das letas de outra
+ * example:
+ *  caos & saco
+ *  Tem as mesmas letas , apenas em ordens diferentes
+ */
 public class Anagram {
 
     public static void main(String[] args) {
