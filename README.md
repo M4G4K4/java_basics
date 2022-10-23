@@ -1,1 +1,3 @@
-# Project to contain Content about java 
+# Java Basics
+
+Project contaning content about java
